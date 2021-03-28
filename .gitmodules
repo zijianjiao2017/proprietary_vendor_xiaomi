@@ -1,0 +1,3 @@
+[submodule "android_vendor_xiaomi_dandelion"]
+	path = mt6765g-common
+	url = https://github.com/zijianjiao2017/android_vendor_xiaomi_dandelion
